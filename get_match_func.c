@@ -49,4 +49,3 @@ int get_match_func(const char *format, va_list list, st_fmt st_format[])
 
 }
 
-

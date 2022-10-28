@@ -77,4 +77,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
     output: This is a number: 1006
 
-
+Authors: Zach Gamble and Jared Glass
